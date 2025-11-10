@@ -498,7 +498,7 @@
 				)
 			)
 			(pin output line
-				(at -7.62 -7.62 90)
+				(at -7.62 -7.62 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -534,7 +534,7 @@
 				)
 			)
 			(pin output line
-				(at -2.54 -7.62 90)
+				(at -2.54 -7.62 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -588,7 +588,7 @@
 				)
 			)
 			(pin output line
-				(at 2.54 -7.62 90)
+				(at 2.54 -7.62 270)
 				(length 2.54)
 				(name ""
 					(effects
@@ -624,7 +624,7 @@
 				)
 			)
 			(pin output line
-				(at 7.62 -7.62 90)
+				(at 7.62 -7.62 270)
 				(length 2.54)
 				(name ""
 					(effects
