@@ -100,16 +100,16 @@
 		)
 		(symbol "NEW 7483_1_1"
 			(pin input line
-				(at -25.4 0 0)
-				(length 0)
-				(name ""
+				(at -33.02 0 0)
+				(length 7.62)
+				(name "C4"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number ""
+				(number "14"
 					(effects
 						(font
 							(size 1.27 1.27)

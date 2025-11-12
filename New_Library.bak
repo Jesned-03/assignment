@@ -100,16 +100,16 @@
 		)
 		(symbol "NEW 7483_1_1"
 			(pin input line
-				(at -25.4 0 0)
-				(length 0)
-				(name ""
+				(at -33.02 0 0)
+				(length 7.62)
+				(name "C4"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number ""
+				(number "14"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -354,7 +354,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "NEW7486"
+	(symbol "NEW 7486"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -401,7 +401,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "NEW7486_1_1"
+		(symbol "NEW 7486_1_1"
 			(rectangle
 				(start -12.7 7.62)
 				(end 12.7 -7.62)
